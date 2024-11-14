@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # Pascalia_form
 Simple form register and login use VueJS
-=======
 # Pascalia Form
 
 A modern registration and login form built with Vue.js 3.
@@ -77,4 +76,3 @@ This project uses Vue CLI with the following features:
 ## License
 
 © 2024 Pascalia Group Co., Ltd. All rights reserved.
->>>>>>> ab41f1d (Version1)
