@@ -44,25 +44,14 @@ npm run lint
 - ESLint for code quality
 
 ## Project Structure
-
-- 
-
-App.vue
-
+- App.vue
  - Main application component containing the registration and login forms
-- 
-
-assets
-
+- assets
  - Static assets including images
-- 
-
-public
+- public
 
  - Public static files
-- 
-
-vue.config.js
+- vue.config.js
 
  - Vue CLI configuration
 
